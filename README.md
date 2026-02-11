@@ -1,5 +1,5 @@
 Hi, Im Nick.
-Technical Investigator|trust & safety
+Technical Investigator|Trust & Safety
 
 I'm a researcher focused on the intersection of digital forensics and platform integrity. I spent a good proportion of my time looking at how scammers and automated systems try to bypass safety controls.
 
